@@ -1,4 +1,3 @@
-#FROM centos:8
 FROM docker.io/httpd:latest
 
 MAINTAINER Jose Luis G.F.
